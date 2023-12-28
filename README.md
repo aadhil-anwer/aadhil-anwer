@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aadhil Anwar</h1>
 <h3 align="center">A passionate Cybersec Student Exploring The CyberSpace 🚀🌀</h3>
+<h3 align ="center"><img src="https://lanyard.cnrad.dev/api/744828989859692584" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"></h3>
+
 
 - 📫 How to reach me **https://www.linkedin.com/in/aadhilanwer/**
 
