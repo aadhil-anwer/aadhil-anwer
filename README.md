@@ -2,9 +2,14 @@
 <h3 align="center">A passionate Cybersec Student Exploring The CyberSpace 🚀🌀</h3>
 <h3 align ="center"><img src="https://lanyard.cnrad.dev/api/744828989859692584" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"></h3>
 <br>
-<h3 align ="center"><img src="https://tryhackme-badges.s3.amazonaws.com/aadhilanwer.png" alt="TryHackMe">
+<h3 align="center" style="display: inline-block; margin: 0;">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/aadhilanwer.png" alt="TryHackMe">
 </h3>
-<h3 align ="center"><img src="https://www.hackthebox.com/badge/image/1265652" alt="HacktheBox"></h3>
+
+<h3 align="center" style="display: inline-block; margin: 0;">
+  <img src="https://www.hackthebox.com/badge/image/1265652" alt="HacktheBox">
+</h3>
+
 
 - 📫 How to reach me **https://www.linkedin.com/in/aadhilanwer/**
 
