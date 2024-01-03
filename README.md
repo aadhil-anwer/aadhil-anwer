@@ -4,9 +4,6 @@
 <br>
 <h3 align="center" style="display: inline-block; width: 48%;"> <img src="https://tryhackme-badges.s3.amazonaws.com/aadhilanwer.png" alt="TryHackMe" style="width: 43%;"> </h3> <h3 align="center" style="display: inline-block; width: 48%;"> <img src="https://www.hackthebox.com/badge/image/1265652" alt="HacktheBox" style="width: 43%;"> </h3>
 
-<h3 align="center" style="display: inline-block;">
-  <img src="https://www.hackthebox.com/badge/image/1265652" alt="HacktheBox">
-</h3>
 
 
 
