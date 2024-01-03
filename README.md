@@ -4,8 +4,7 @@
 <br>
 <h3 align ="center"><img src="https://tryhackme-badges.s3.amazonaws.com/aadhilanwer.png" alt="TryHackMe">
 </h3>
-<br>
-<h3 align ="center"><img src="[https://tryhackme-badges.s3.amazonaws.com/aadhilanwer.png](https://www.hackthebox.com/badge/image/1265652)" alt="HacktheBox"></h3>
+<h3 align ="center"><img src="https://www.hackthebox.com/badge/image/1265652" alt="HacktheBox"></h3>
 
 - 📫 How to reach me **https://www.linkedin.com/in/aadhilanwer/**
 
