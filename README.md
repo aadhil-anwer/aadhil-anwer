@@ -1,40 +1,40 @@
-<!-- ░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░ OPAL HEADER ░░░░░░░░░░░░░░░ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Aadhil%20Anwar&fontColor=c0caf5&fontSize=52&fontAlignY=36&desc=network%20security%20engineer%20%C2%B7%20i%20make%20infrastructure%20boring%20on%20purpose&descSize=16&descAlignY=58&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6ee7b7,30:67e8f9,65:c4b5fd,100:f0abfc&height=210&animation=fadeIn&section=header&text=Aadhil%20Anwar&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=network%20%26%20cloud%20security%20engineer%20%C2%B7%20i%20make%20infrastructure%20boring%20on%20purpose&descSize=16&descAlignY=60" />
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=600&lines=securing+infra+%40+GoDaddy;ACL+%2F+VLAN+architecture+%C2%B7+AWS+%C2%B7+DevSecOps;the+best+exploit+is+the+one+you+patched+before+it+shipped;boring+means+nobody+gets+paged+at+3am" />
-  </a>
+  <a href="https://github.com/aanwarsadath-godaddy"><img src="https://img.shields.io/badge/GoDaddy_work-aanwarsadath--godaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/aanwarsadath-godaddy"><img src="https://img.shields.io/badge/GoDaddy_work_account-aanwarsadath--godaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white&labelColor=000000" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=620&lines=securing+hybrid+AWS+%2B+OpenStack+at+scale;policy-as-code+%C2%B7+microsegmentation+%C2%B7+attack-path+analysis;the+best+exploit+is+the+one+you+patched+before+it+shipped;boring+means+nobody+gets+paged+at+3am" />
 </p>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ WHOAMI ░░░░░░░░░░░░░░░░░░░░ -->
+<!-- iridescent divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6ee7b7,50:c4b5fd,100:f0abfc&height=3&section=header" />
+
+<!-- ░░░░░░░░░░░░░░░ WHOAMI ░░░░░░░░░░░░░░░ -->
 
 ```bash
 $ aadhil --status
 
   role        : Network Security Engineer @ GoDaddy
-  day job     : infra security · ACL/VLAN architecture · AWS · DevSecOps
+  day job     : infra security · ACL/VLAN architecture · AWS + OpenStack · DevSecOps
   side quest  : vulnerability research (mostly for the dopamine)
   status      : online · over-caffeinated
 ```
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ STACK ░░░░░░░░░░░░░░░░░░░░ -->
-
 ### 🧭 where i operate
 
 <p align="left">
-  <img src="https://img.shields.io/badge/infrastructure_security-1a1b27?style=flat-square&labelColor=1a1b27&color=7aa2f7" />
-  <img src="https://img.shields.io/badge/network_architecture-1a1b27?style=flat-square&labelColor=1a1b27&color=7aa2f7" />
-  <img src="https://img.shields.io/badge/access--control_design-1a1b27?style=flat-square&labelColor=1a1b27&color=7aa2f7" />
-  <img src="https://img.shields.io/badge/cloud_security_(AWS)-1a1b27?style=flat-square&labelColor=1a1b27&color=7aa2f7" />
-  <img src="https://img.shields.io/badge/DevSecOps-1a1b27?style=flat-square&labelColor=1a1b27&color=7aa2f7" />
-  <img src="https://img.shields.io/badge/detection_engineering-1a1b27?style=flat-square&labelColor=1a1b27&color=7aa2f7" />
-  <img src="https://img.shields.io/badge/security_automation-1a1b27?style=flat-square&labelColor=1a1b27&color=7aa2f7" />
+  <img src="https://img.shields.io/badge/infrastructure_security-0d1117?style=flat-square&labelColor=0d1117&color=6ee7b7" />
+  <img src="https://img.shields.io/badge/microsegmentation-0d1117?style=flat-square&labelColor=0d1117&color=67e8f9" />
+  <img src="https://img.shields.io/badge/policy--as--code-0d1117?style=flat-square&labelColor=0d1117&color=c4b5fd" />
+  <img src="https://img.shields.io/badge/zero_trust-0d1117?style=flat-square&labelColor=0d1117&color=f0abfc" />
+  <img src="https://img.shields.io/badge/least_privilege-0d1117?style=flat-square&labelColor=0d1117&color=6ee7b7" />
+  <img src="https://img.shields.io/badge/attack--path_analysis-0d1117?style=flat-square&labelColor=0d1117&color=67e8f9" />
+  <img src="https://img.shields.io/badge/threat_modeling-0d1117?style=flat-square&labelColor=0d1117&color=c4b5fd" />
+  <img src="https://img.shields.io/badge/cloud_security-0d1117?style=flat-square&labelColor=0d1117&color=f0abfc" />
 </p>
 
 ### 🧰 stack
@@ -80,27 +80,29 @@ $ aadhil --status
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </p>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ STATS ░░░░░░░░░░░░░░░░░░░░ -->
-
 ### 📊 receipts
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aadhil-anwer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadhil-anwer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aadhil-anwer&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=c4b5fd&icon_color=67e8f9&text_color=c9d1e0&bg_color=15,0d1117,141a2e,1f1535&ring_color=f0abfc" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadhil-anwer&layout=compact&hide_border=true&langs_count=8&title_color=c4b5fd&text_color=c9d1e0&bg_color=15,0d1117,141a2e,1f1535" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadhil-anwer&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aadhil-anwer&hide_border=true&background=0D1117&stroke=c4b5fd&ring=67e8f9&fire=f0abfc&currStreakLabel=c4b5fd&sideLabels=c9d1e0&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 </p>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ CONNECT ░░░░░░░░░░░░░░░░░░░░ -->
+<!-- interactive activity graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aadhil-anwer&bg_color=0d1117&color=c4b5fd&line=67e8f9&point=f0abfc&area=true&area_color=6ee7b7&hide_border=true&title_color=c4b5fd&custom_title=contribution%20pulse" />
+
+<!-- ░░░░░░░░░░░░░░░ CONNECT ░░░░░░░░░░░░░░░ -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aadhilanwer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/r000_1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://aadhilanwar.dev"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=c4b5fd" /></a>
   <a href="https://instagram.com/aadhil_anwer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>"It's not a bug — it's an undocumented feature you weren't supposed to find."</i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f0abfc,35:c4b5fd,70:67e8f9,100:6ee7b7&height=120&section=footer" />
