@@ -1,17 +1,14 @@
 <!-- ░░░░░░░░░░░░░░░ OPAL HEADER ░░░░░░░░░░░░░░░ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6ee7b7,30:67e8f9,65:c4b5fd,100:f0abfc&height=210&animation=fadeIn&section=header&text=Aadhil%20Anwar&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=network%20%26%20cloud%20security%20engineer%20%C2%B7%20i%20make%20infrastructure%20boring%20on%20purpose&descSize=16&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6ee7b7,30:67e8f9,65:c4b5fd,100:f0abfc&height=200&animation=fadeIn&section=header&text=Aadhil%20Anwar&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=network%20and%20cloud%20security%20engineer&descSize=18&descAlignY=62" />
 
 <p align="center">
   <a href="https://github.com/aanwarsadath-godaddy"><img src="https://img.shields.io/badge/GoDaddy_work-aanwarsadath--godaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=620&lines=securing+hybrid+AWS+%2B+OpenStack+at+scale;policy-as-code+%C2%B7+microsegmentation+%C2%B7+attack-path+analysis;the+best+exploit+is+the+one+you+patched+before+it+shipped;boring+means+nobody+gets+paged+at+3am" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=800&height=45&lines=securing+hybrid+AWS+and+OpenStack+at+scale;policy-as-code+%7C+microsegmentation;attack-path+analysis+%7C+threat+modeling;boring+means+nobody+gets+paged+at+3am" />
 </p>
-
-<!-- iridescent divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6ee7b7,50:c4b5fd,100:f0abfc&height=3&section=header" />
 
 <!-- ░░░░░░░░░░░░░░░ WHOAMI ░░░░░░░░░░░░░░░ -->
 
