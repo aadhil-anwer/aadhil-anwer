@@ -1,27 +1,62 @@
-<h1 align="center">Hi 👋, I'm Aadhil Anwar</h1>
-<h3 align="center">A passionate Cybersec Student Exploring The CyberSpace 🚀🌀</h3>
-<h3 align ="center"><img src="https://lanyard.cnrad.dev/api/744828989859692584" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"></h3>
-<br>
-<h3 align="center" style="display: inline-block; width: 48%;"> <img src="https://tryhackme-badges.s3.amazonaws.com/aadhilanwer.png" alt="TryHackMe" style="width: 43%;"> </h3> <h3 align="center" style="display: inline-block; width: 48%;"> <img src="https://www.hackthebox.com/badge/image/1265652" alt="HacktheBox" style="width: 43%;"> </h3>
+<!-- ░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░ -->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Aadhil%20Anwar&fontColor=c0caf5&fontSize=52&fontAlignY=36&desc=network%20security%20engineer%20%C2%B7%20i%20make%20infrastructure%20boring%20on%20purpose&descSize=16&descAlignY=58&descAlign=50" />
 
-
-
-- 📫 How to reach me **https://www.linkedin.com/in/aadhilanwer/**
-
-- ⚡ Fun fact **I am Batman**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/r000_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r000_1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aadhilanwer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadhilanwer" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/aadhil-anwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aadhil-anwar" height="30" width="40" /></a>
-<a href="https://instagram.com/aadhil_anwer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadhil_anwer" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=600&lines=securing+infra+%40+GoDaddy;ACL+%2F+VLAN+architecture+%C2%B7+AWS+%C2%B7+DevSecOps;the+best+exploit+is+the+one+you+patched+before+it+shipped;boring+means+nobody+gets+paged+at+3am" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- ░░░░░░░░░░░░░░░░░░░░ WHOAMI ░░░░░░░░░░░░░░░░░░░░ -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadhil-anwer&show_icons=true&locale=en&layout=compact" alt="aadhil-anwer" /></p>
+```bash
+$ aadhil --status
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadhil-anwer&show_icons=true&locale=en" alt="aadhil-anwer" /></p>
+  role        : Network Security Engineer @ GoDaddy
+  day job     : infra security · ACL/VLAN architecture · AWS · DevSecOps
+  side quest  : vulnerability research (mostly for the dopamine)
+  status      : online · over-caffeinated
+```
+
+<!-- ░░░░░░░░░░░░░░░░░░░░ STACK ░░░░░░░░░░░░░░░░░░░░ -->
+
+### 🧰 what's on the desk
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2A2E37?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elasticstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░ STATS ░░░░░░░░░░░░░░░░░░░░ -->
+
+### 📊 receipts
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aadhil-anwer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadhil-anwer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadhil-anwer&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░ CONNECT ░░░░░░░░░░░░░░░░░░░░ -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aadhilanwer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/r000_1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://instagram.com/aadhil_anwer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>"It's not a bug — it's an undocumented feature you weren't supposed to find."</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" />
