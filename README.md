@@ -1,6 +1,6 @@
 <!-- ░░░░░░░░░░░░░░░ OPAL HEADER ░░░░░░░░░░░░░░░ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6ee7b7,30:67e8f9,65:c4b5fd,100:f0abfc&height=200&animation=fadeIn&section=header&text=Aadhil%20Anwar&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=network%20and%20cloud%20security%20engineer&descSize=18&descAlignY=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6ee7b7,30:67e8f9,65:c4b5fd,100:f0abfc&height=200&animation=fadeIn&section=header&text=Aadhil%20Anwar&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=the%20net%20is%20vast%20and%20infinite&descSize=18&descAlignY=62" />
 
 <p align="center">
   <a href="https://github.com/aanwarsadath-godaddy"><img src="https://img.shields.io/badge/GoDaddy_work-aanwarsadath--godaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white&labelColor=0d1117" /></a>
