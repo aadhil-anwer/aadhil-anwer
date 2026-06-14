@@ -7,21 +7,23 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=800&height=45&lines=securing+hybrid+AWS+and+OpenStack+at+scale;policy-as-code+%7C+microsegmentation;attack-path+analysis+%7C+threat+modeling;boring+means+nobody+gets+paged+at+3am" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3200&pause=1000&color=C4B5FD&center=true&vCenter=true&width=820&height=48&lines=i+turn+0.0.0.0%2F0+into+one+very+sad+IP;AWS+%2B+OpenStack+whisperer+%F0%9F%AB%A0;i+read+firewall+logs+for+fun+(send+help);your+attack+path+ends+here+%E2%9B%94;making+infra+so+boring+it's+basically+art" />
 </p>
 
 <!-- ░░░░░░░░░░░░░░░ WHOAMI ░░░░░░░░░░░░░░░ -->
 
 ```bash
-$ aadhil --status
+$ sudo aadhil --whoami
 
   role        : Network Security Engineer @ GoDaddy
-  day job     : infra security · ACL/VLAN architecture · AWS + OpenStack · DevSecOps
-  side quest  : vulnerability research (mostly for the dopamine)
-  status      : online · over-caffeinated
+  superpower  : turning 0.0.0.0/0 into a single, very sad IP
+  day job     : keeping the blast radius smaller than my ego
+  side quest  : breaking APIs, then apologizing via responsible disclosure
+  fuel        : caffeine, spite, and suspiciously clean ACLs
+  uptime      : alarmingly high
 ```
 
-### 🧭 where i operate
+### 🧭 my natural habitat
 
 <p align="left">
   <img src="https://img.shields.io/badge/infrastructure_security-0d1117?style=flat-square&labelColor=0d1117&color=6ee7b7" />
@@ -34,7 +36,7 @@ $ aadhil --status
   <img src="https://img.shields.io/badge/cloud_security-0d1117?style=flat-square&labelColor=0d1117&color=f0abfc" />
 </p>
 
-### 🧰 stack
+### 🧰 toys i'm dangerous with
 
 **☁️ cloud & infra**
 
@@ -77,7 +79,7 @@ $ aadhil --status
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </p>
 
-### 📊 receipts
+### 📊 receipts (please don't fact-check the streak)
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=aadhil-anwer&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=c4b5fd&icon_color=67e8f9&text_color=c9d1e0&bg_color=15,0d1117,141a2e,1f1535&ring_color=f0abfc" />
@@ -100,6 +102,6 @@ $ aadhil --status
   <a href="https://instagram.com/aadhil_anwer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>"It's not a bug — it's an undocumented feature you weren't supposed to find."</i></p>
+<p align="center"><i>firewalls have rules. so do i. mine just have way fewer exceptions.</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f0abfc,35:c4b5fd,70:67e8f9,100:6ee7b7&height=120&section=footer" />
