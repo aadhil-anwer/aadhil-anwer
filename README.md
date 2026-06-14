@@ -8,6 +8,10 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/aanwarsadath-godaddy"><img src="https://img.shields.io/badge/GoDaddy_work_account-aanwarsadath--godaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white&labelColor=000000" /></a>
+</p>
+
 <!-- ░░░░░░░░░░░░░░░░░░░░ WHOAMI ░░░░░░░░░░░░░░░░░░░░ -->
 
 ```bash
@@ -21,19 +25,16 @@ $ aadhil --status
 
 <!-- ░░░░░░░░░░░░░░░░░░░░ STACK ░░░░░░░░░░░░░░░░░░░░ -->
 
-### 🧰 what's on the desk
+### 🧭 where i operate
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2A2E37?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elasticstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/infrastructure_security-1a1b27?style=flat-square&labelColor=1a1b27&color=7aa2f7" />
+  <img src="https://img.shields.io/badge/network_architecture-1a1b27?style=flat-square&labelColor=1a1b27&color=7aa2f7" />
+  <img src="https://img.shields.io/badge/access--control_design-1a1b27?style=flat-square&labelColor=1a1b27&color=7aa2f7" />
+  <img src="https://img.shields.io/badge/cloud_security_(AWS)-1a1b27?style=flat-square&labelColor=1a1b27&color=7aa2f7" />
+  <img src="https://img.shields.io/badge/DevSecOps-1a1b27?style=flat-square&labelColor=1a1b27&color=7aa2f7" />
+  <img src="https://img.shields.io/badge/detection_engineering-1a1b27?style=flat-square&labelColor=1a1b27&color=7aa2f7" />
+  <img src="https://img.shields.io/badge/security_automation-1a1b27?style=flat-square&labelColor=1a1b27&color=7aa2f7" />
 </p>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░ STATS ░░░░░░░░░░░░░░░░░░░░ -->
